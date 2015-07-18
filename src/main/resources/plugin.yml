@@ -1,0 +1,15 @@
+name: ${name}
+main: ${package}.${name}
+version: ${version}
+author: KaiNoMood
+loadbefore: [GriefPreventionPlus, WorldGuard]
+
+commands:
+   forgerestrictor:
+      description: Manage
+      aliases: [fr, fres]
+
+permissions:
+    forgerestrictor.manage:
+        description: Manage
+        default: op
