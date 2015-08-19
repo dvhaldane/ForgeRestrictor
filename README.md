@@ -18,7 +18,7 @@ Just drop the jar to plugins folder.
 - Ranged: items in this list are ranged items. Like a bow. They can shoot far away, all items in this list will check the target block.
 - AoE: there are items that produces effect in the area around the player, like the Horn of the Wild. Items in this list will check permissions in the area around the player.
 
-Command usage: /fres <whitelist/containers/ranged/aoe> <add/remove/list> <ItemID/ItemName/Hand> (range) (world)
+Command usage: /fres (whitelist/containers/ranged/aoe) (add/remove/list) (ItemID/ItemName/Hand) (range) (world)
 
 ###Major features
 - Reduces griefing with a lot of modded items.
